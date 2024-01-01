@@ -1,0 +1,25 @@
+{
+  "name": "dijkstra-algorithm",
+  "version": "1.0.0",
+  "description": "An overview of dijkstra algorithm to find shortest path of weighted graphs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhadgharaie/node.git"
+  },
+  "keywords": [
+    "dijkstra",
+    "algorithm",
+    "in",
+    "node"
+  ],
+  "author": "Farhad Gharaie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhadgharaie/node/issues"
+  },
+  "homepage": "https://github.com/farhadgharaie/node#readme"
+}
