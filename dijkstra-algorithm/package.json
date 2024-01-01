@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/farhadgharaie/node/issues"
   },
-  "homepage": "https://github.com/farhadgharaie/node#readme"
+  "homepage": "https://github.com/farhadgharaie/node#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
